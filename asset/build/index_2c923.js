@@ -1,0 +1,1 @@
+webpackJsonp([1,0],[function(o,n,s){var a=s(1);console.log(a);var t=s(2);console.log(t)},function(o,n){var s="I am test.js";o.exports=s},function(o,n){var s="I am plugin.js";o.exports=s}]);
